@@ -1,0 +1,16 @@
+///////////////////////DOCUMENTS//////////////////////
+Komutlar:
+
+gir:
+	Bilgi girmek için kullanılır
+	Kullanım: gir [bilginin kendisi ama BOŞLUKSUZ örn(efsane_bilgi) gibi ] [bilgi için anahtar kelime yada cümleler (efsane bir cümle)] ;
+ara:
+	Bilgiyi aramak için kullanılır
+	Kullanım: ara [bilginin anahtar kelimeleri] :
+kayit:
+	Bilgiyi kaydetmek için kullanılır
+	Kullanım: kayit [kaydedilecek dosya ismi BOŞLUKSUZ]
+	KAYDETMEDEN ÖNCE DOSYA VARSA DOSYAYI SİLİNİZ
+yukle:
+	Bilgiyi yüklemek için kullanılır
+	Kullanım: yukle [yuklenecek dosya ismi BOŞLUKSUZ]
